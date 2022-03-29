@@ -17,7 +17,7 @@ fun getRemainder(num1:Int,num2:Int):Int{
     return num
 }
 fun Additional(a:Int,b:Int,c:Int,d:Int):Int{
-    var num=a+b+c+d
+    var figures=a+b+c+d
     return num
 }
 fun Statement(fact:String){
