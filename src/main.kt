@@ -1,6 +1,6 @@
 fun main(){
     println("Hello Esther")
-    var n=getRemainder(36,7)
+    var n=getRemainder(26,7)
     println(n)
     var x=Additional(10,10,10,10)
     println(x)
